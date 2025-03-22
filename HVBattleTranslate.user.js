@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HV - 战斗日志汉化
 // @namespace    Aloxaf_hentai
-// @version      0.5.0.a
+// @version      0.5.0.b
 // @description  汉化 HV 战斗日志
 // @notice       原作者@qp_xe，物品汉化文本由HV物品装备汉化提供
 // @author       qp_xe & indefined & 1235789gzy1 & mbbdzz
@@ -9,8 +9,8 @@
 // @include      *://alt.hentaiverse.org/*
 // @grant        GM_addStyle
 // @grant        unsafeWindow
-// @downloadURL https://github.com/WayneFerdon/HV - 战斗日志汉化/raw/refs/heads/master/HVBattleTranslate.user.js
-// @updateURL https://github.com/WayneFerdon/HV - 战斗日志汉化/raw/refs/heads/master/HVBattleTranslate.user.js
+// @downloadURL https://github.com/WayneFerdon/HVBattleLogChineseTranslate/raw/refs/heads/main/HVBattleTranslate.user.js
+// @updateURL https://github.com/WayneFerdon/HVBattleLogChineseTranslate/raw/refs/heads/main/HVBattleTranslate.user.js
 // ==/UserScript==
 
 // 隐藏原先的战斗 log
